@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"mo",
+				"mod	module .. end"
+			],
+			[
+				"mod",
+				"mod	module .. module_function .. end"
+			],
+			[
+				"de",
+				"def	def … end"
+			],
+			[
+				"e",
+				"Enumerable"
+			],
+			[
+				"bo",
+				"Bowling"
+			],
+			[
+				"rom",
+				"Roman"
+			],
+			[
+				"ii",
+				"ii"
+			],
+			[
+				"opf",
+				"op_file"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"ta",
+				"take_block"
+			],
+			[
+				"en",
+				"encoding"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"loo",
+				"lookup"
+			],
+			[
+				"wr",
+				"word"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"nil",
+				"nil"
+			],
+			[
+				"as",
+				"ase	assert_equal(..)"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"cl",
+				"cla	class .. end"
+			],
+			[
+				"dur",
+				"duration_in_minutes"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"durat",
+				"duration_in_minutes"
+			],
+			[
+				"so",
+				"Song"
+			],
+			[
+				"say",
+				"sayGoodNight"
+			],
+			[
+				"usem",
+				"useMOCursorChange"
+			],
+			[
+				"usemo",
+				"useMOMaterialChange"
+			],
+			[
+				"use",
+				"useMOCursorChange"
+			],
+			[
+				"gam",
+				"GameManager"
+			],
+			[
+				"ge",
+				"GetComponent"
+			],
+			[
+				"game",
+				"GameObject"
+			],
+			[
+				"ma",
+				"mainTexture"
+			],
+			[
+				"dis",
+				"DistanceFromCamera"
+			],
+			[
+				"mouse",
+				"mouseOverColor"
+			],
+			[
+				"Game",
+				"GamePointer"
+			],
+			[
+				"ga",
+				"GameObject"
+			],
+			[
+				"sc",
+				"Screen"
+			],
+			[
+				"t",
+				"ToggleTrigger"
+			],
+			[
+				"tar",
+				"targetB"
+			],
+			[
+				"targe",
+				"targetA"
+			],
+			[
+				"tim",
+				"Time"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"irb",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"openfile",
+				"Snippet: File.open(\"..\") { |file| .. }"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"irub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"replirb",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"repl",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"rub",
+				"SublimeREPL: Ruby IRB (deprecated)"
+			],
+			[
+				"replruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"copypa",
+				"File: Copy Path"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"preve",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/blog/config/routes.rb",
+		"/C/Sites/rails_projects/first_app/README.md",
+		"/C/Sites/blog/app/controllers/posts_controller.rb",
+		"/C/Sites/blog/app/assets/javascripts/application.js",
+		"/C/Sites/blog/app/assets/javascripts/posts.js.coffee",
+		"/C/Sites/todo/README.md",
+		"/H/Dropbox/Ruby Keywords.md",
+		"/H/Dropbox/rb/RailsInstaller_ssh_key.md",
+		"/C/RailsInstaller/AutoRun.bat",
+		"/C/RailsInstaller/my-favorite-doskey-macros.txt",
+		"/H/joonKim/Desktop/my-favoirte-doskey-macro.txt",
+		"/C/Sites/rails_projects/first_app/.gitignore",
+		"/C/?",
+		"/H/joonKim/Documents/RenameSubtitles.rb",
+		"/H/Dropbox/rb/RanameSubs/RenameSubtitles.rb",
+		"/H/joonKim/Documents/Example2.rb",
+		"/H/joonKim/Documents/Example1.rb",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/User/Ruby.sublime-build",
+		"/H/joonKim/Documents/RomanConverter.rb",
+		"/H/joonKim/Documents/JukeBox.rb",
+		"/C/Users/joonKim/AppData/Roaming/XBMC/userdata/advancedsettings.xml",
+		"/H/Dropbox/RenameSubtitles.rb",
+		"/G/Program Files/XBMC/system/python/readme.txt",
+		"/G/Program Files/XBMC/system/library/video/tvshows/index.xml",
+		"/G/Program Files/XBMC/system/library/video/files.xml",
+		"/G/Program Files/XBMC/language/Korean/strings.po",
+		"/C/Users/joonKim/AppData/Roaming/XBMC/userdata/guisettings.xml",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/H/joonKim/Documents/bowling.rb",
+		"/H/joonKim/Documents/bowling_spec.rb",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/RubyTest/README.md",
+		"/H/Torrs/Completed/[魔穗字幕组][こっとんど～る]それでも妻を愛してる 第二話 夫には言えない妻の罪 [第一話付]/_____padding_file_0_如果您看到此文件，请升级到BitComet(比特彗星)0.85或以上版本____",
+		"/H/Torrs/Completed/[魔穗字幕组][こっとんど～る]それでも妻を愛してる 第二話 夫には言えない妻の罪 [第一話付]/招募信息.txt",
+		"/H/Torrs/Completed/[魔穗字幕组][こっとんど～る]それでも妻を愛してる 第二話 夫には言えない妻の罪 [第一話付]/3BC2E7EB778475CBB51200AA96908C55146DBDD7.torrent",
+		"/H/Torrs/Completed/[魔穗字幕组][こっとんど～る]それでも妻を愛してる 第二話 夫には言えない妻の罪 [第一話付]/第一话+外挂字幕/[Maho.sub] それでも妻を爱してる 第一话.ass",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/RubyTest/messages.txt",
+		"/H/joonKim/Documents/RegExp.rb",
+		"/H/joonKim/Documents/songdata",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Ruby/Default.sublime-commands",
+		"/H/joonKim/Documents/Example.rb",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Ruby/Main.sublime-menu",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Ruby/pry_repl.rb",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/lang_integration.py",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Auto Encoding for Ruby/Auto Encoding for Ruby.sublime-settings",
+		"/H/joonKim/Documents/sonedata",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/H/joonKim/Documents/Unity Projects/Game Tutorials 01/Project Description.mdown",
+		"/H/joonKim/Documents/Unity Projects/BookProject Ch 07_ActionOjbects/Assets/Adventure Scripts/Interactor.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject Ch 07_ActionOjbects/Assets/Adventure Scripts/GameManager.js",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/README.md",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/Interactor.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/GameManager.js",
+		"/H/joonKim/Documents/My Games/Dishonored/DishonoredGame/Config/DishonoredGame.ini",
+		"/H/joonKim/Documents/My Games/Dishonored/DishonoredGame/Config/DishonoredEngine.ini",
+		"/C/Games/Steam/skins/PixelVision/locale.ini",
+		"/H/joonKim/Documents/Unity Projects/BookProject/BookProject.sublime-project",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/CustomCursor.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/PlatformMover.js",
+		"/H/joonKim/Documents/AutoHotkey.ahk",
+		"/H/Torrs/Completed/(18禁アニメ) 恋糸記念日 THE ANIMATION (DVD 1280x720 x264 AAC)/(18禁アニメ) 恋糸記念日 THE ANIMATION Memorial.1「むすんで ひらいて」 (DVD 1280x720 x264 AAC).smi",
+		"/H/Torrs/Completed/[漫の學園字幕組][メリー・ジェーン]メスのちトラレ 上巻 ハメられた生徒会長/암컷 다음 빼앗기 제1화 함정에 빠진 학생회장(720x480).smi",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/H/PDS/BEGINNINGUNITY3D_ASSETS/Beginning Unity 3d srcipt sources/Chapter 06_CursorContro/BookProject Ch 06 Finished/Assets/Adventure Scripts/Interactor.js",
+		"/H/PDS/BEGINNINGUNITY3D_ASSETS/Beginning Unity 3d srcipt sources/Chapter 06_CursorContro/Chapter 6 Finished Scripts/Adventure Scripts/Interactor.js",
+		"/H/PDS/BEGINNINGUNITY3D_ASSETS/Beginning Unity 3d srcipt sources/Chapter 06_CursorContro/BookProject Ch 06 Finished/Assets/Adventure Scripts/._Interactor.js",
+		"/H/joonKim/Desktop/manifest.json",
+		"/H/joonKim/Desktop/FirstChromeExtension.json",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/ToggleIsTrigger.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/SendMessageOnTrigger.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/My Scripts/HideCursor.js",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SmartMarkdown/Default (Windows).sublime-keymap",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/SmartMarkdown/Default.sublime-keymap",
+		"/H/joonKim/Desktop/previewtest.mdown",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Unity3D Snippets and Completes/README.md",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/My Scripts/SimpleMove.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/BookProject.sublime-workspace",
+		"/H/joonKim/Documents/Unity Projects/New Unity Project/Assets/NewBehaviourScript.js",
+		"/H/joonKim/Documents/Unity Projects/BookProject/Assets/Adventure Scripts/FPAdventureInputController.js",
+		"/C/Users/joonKim/AppData/Roaming/Sublime Text 2/Packages/Unity3D Build System/Unity.sublime-build",
+		"/H/Dropbox/Evangelion Q.txt",
+		"/H/Dropbox/CRPG/Documents/Wasteland/Manual - Wasteland.txt",
+		"/H/joonKim/Desktop/Capslock2Ctrl.ahk",
+		"/H/joonKim/Desktop/dccmd.txt",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowEngine.ini",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowGame.ini",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowDLCManager.ini",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowLightmass.ini",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowUI.ini",
+		"/H/joonKim/Documents/My Games/Borderlands 2/WillowGame/Config/WillowCompat.ini",
+		"/G/Program Files/Unity/MonoDevelop/bin/Mono.TextEditor.dll.config",
+		"/G/Program Files/Unity/MonoDevelop/bin/MonoDevelop.exe.config",
+		"/G/Program Files/Unity/MonoDevelop/data/options/DefaultEditingLayout.xml",
+		"/G/Program Files/Unity/MonoDevelop/data/options/MonoDevelopProperties.xml",
+		"/G/Program Files/Unity/MonoDevelop/data/options/EditingLayout2.xml",
+		"/G/Program Files/Unity/MonoDevelop/data/options/MonoDevelop-templates.xml",
+		"/G/Program Files/Unity/MonoDevelop/data/options/MonoDevelop-tools.xml",
+		"/H/joonKim/Documents/TombRaider.log",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - The History of Britannia.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Solutions.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Virtues.txt",
+		"/H/Dropbox/Apps/Byword/Mapping.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - The Way of the Avatar.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Journal.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Opening.txt",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Virtues",
+		"/H/Dropbox/Apps/Byword/Ultima 4 - Journal"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doskey",
+			"\\",
+			"  ",
+			"regEx",
+			".ext",
+			"e",
+			"regex",
+			" (",
+			"1",
+			"path",
+			"fpath",
+			"i",
+			"fpath",
+			"regexp",
+			"tvShow[3]",
+			"tvShow[1]",
+			"build",
+			"code",
+			"unless",
+			"max_roman",
+			"Console",
+			"||",
+			"print",
+			"puts((1..10).collect { |n| n * number }.join(\", \"))",
+			"print \"(t)imes or (p)lus: \"\ntimes = gets\nprint \"number: \"\nnumber = Integer(gets)\nif times =~ /^t/\n	puts((1..10).collect { |n| n * number }.join(\", \"))\nelse\n	puts((1..10).collect { |n| n + number }.join(\", \"))\nend\n",
+			" \"))",
+			"method_name",
+			"ruby",
+			"i",
+			"the",
+			"Fats",
+			"end",
+			"spac",
+			"space",
+			"type",
+			"scroll",
+			"write",
+			"sum",
+			"1",
+			"wrap",
+			"260",
+			"Fleck",
+			"Bicylops",
+			"max_time",
+			"s1.play\ns2.play",
+			"Song1",
+			"KaraokeSong",
+			"karaokeSong",
+			"KaraokeSong",
+			"karaokeSong",
+			"char",
+			"res",
+			"resolution",
+			"useMOCursorChange",
+			"\".\",",
+			"originalMaterial",
+			" *.",
+			"true",
+			"{};",
+			"Left",
+			"ctrl+alt",
+			"\n^!",
+			"x",
+			"ToggleTrigger",
+			"function OnTriggerEnter (object : Collider) {\n	sendToObject.SendMessage(\"ToggleTrigger\");\n}",
+			"FixedUpdate",
+			"2560",
+			"cinematicscene",
+			"postprocess",
+			"resolution",
+			"ratio",
+			"width",
+			"resolution",
+			"width",
+			"insert",
+			"edit",
+			"writer",
+			"type",
+			"line",
+			"height",
+			"2Wasteland Manual",
+			". ",
+			"Statistics",
+			"herb",
+			"paws",
+			"herb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"origin_encoding": "ASCII",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 364.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"appljs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"usercont",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"ju",
+				"/H/joonKim/Documents/JukeBox.rb"
+			],
+			[
+				"game",
+				"Assets/Adventure Scripts/GameManager.js"
+			],
+			[
+				"inter",
+				"Assets/Adventure Scripts/Interactor.js"
+			],
+			[
+				"ins",
+				"Assets/Adventure Scripts/Interactor.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/H/joonKim/Documents/BookProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
